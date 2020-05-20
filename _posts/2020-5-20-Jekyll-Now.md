@@ -31,4 +31,9 @@ From here, your minimalist blogging platform is now live at yourusername.github.
 
 Now imagine how long this would’ve been if I had used Wordpress...
 
+
+If you enjoyed reading this please let me know on [Twitter](https://twitter.com/mikecdev1).
+
 For more of the techincal nitty gritty, take a look at [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) over at Smashing Magazine.
+
+
