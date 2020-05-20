@@ -19,15 +19,14 @@ Jekyll Now is a repository that lets users bypass the command line and directly 
 
 ## Going live in 30 seconds
 
-Cloning the Jekyll Now repository into your Github account and setting the title to yourusername.github.io will have the example blog content live in less than 30 seconds.
+Cloning the Jekyll Now repository into your Github account and setting the title to yourusername.github.io will have the example blog content live in less than 30 seconds. Thats all it takes.
 
-Your blog’s name can be edited in the _config.yml file, along with many other options like enabling certain social media links in the footer.
-
+Your blog’s name can be edited in the _config.yml file, along with many other options like enabling certain social media links in the footer. You can also edit the main page templates if you would like to add more links as I did.
   
 
 ## The Blogging Platform for Minimalists
 
-From here, your minimalist blogging platform is now live at yourusername.github.io. Posts can be created and edited in the ./posts/ directory as Markdown text files directly from the browser, no other applications needed.
+Your minimalist blogging platform is live at yourusername.github.io. Posts can be created and edited in the ./posts/ directory as Markdown text files directly from the browser, no other applications needed.
 
 Now imagine how long this would’ve been if I had used Wordpress...
 
