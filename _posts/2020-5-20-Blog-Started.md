@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acheivement Unlocked - Blog Started
+title: Milestone - Blog Started
 ---
 
 Welcome to my blog! Thanks for clicking around.
