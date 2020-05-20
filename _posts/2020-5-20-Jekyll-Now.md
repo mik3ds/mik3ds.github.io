@@ -5,9 +5,7 @@ title: Adding a Blog to your Github Pages site using Jekyll Now
 
 Recently I’ve been thinking about improving my personal website, [mikeclark.xyz](mikeclark.xyz.). The site is very simple; it uses Bootstrap 4, is hosted on Github Pages, and it only lists my main technical skills.
 
-From reading up on many startup stories at Indie Hackers lately, it seemed like the best way to improve my website and promote my brand in the future would be to start a blog today. 
-
-Thanks to [Rachel Soderberg](https://dev.to/rachelsoderberg/junior-developers-should-start-a-technical-blog-early-in-their-career-19bg) and [Monica Lent](https://bloggingfordevs.com/) for the inspiration.
+From reading up on many startup stories at Indie Hackers lately, it seemed like the best way to improve my website and promote my brand in the future would be to start a blog today. (Thanks to [Rachel Soderberg](https://dev.to/rachelsoderberg/junior-developers-should-start-a-technical-blog-early-in-their-career-19bg) and [Monica Lent](https://bloggingfordevs.com/) for the inspiration.)
 
 With my website so simple, I didn’t want to invest too much time or money into setting up a fully-featured CMS system, which is where Jekyll comes in.
 
