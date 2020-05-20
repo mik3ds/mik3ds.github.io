@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Milestone - Blog Started
+title: Milestone Acheived! Blog Started
 ---
 
 Welcome to my blog! Thanks for clicking around.
