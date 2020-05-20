@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Milestone Acheived! Blog Started
+title: Milestone Acheived!
 ---
+Successfully started my blog. Welcome!
+And thanks for clicking around.
 
-Welcome to my blog! Thanks for clicking around.
-Give me a follow on [Twitter](https://twitter.com/MikeCDev1)
-Check the website footer for the rest of my contact details.
+Please give me a follow on [Twitter](https://twitter.com/MikeCDev1) if you're into that sort of thing.
+
+For more contact details check the website footer!
