@@ -4,8 +4,6 @@ title: Super Simple PICO-8 Beginners Guide
 tags: pico8 gamedev jekyll blog github-page
 ---
 
-Now is a great time to get started with PICO-8 through the (now ended) [historic itch.io racial equality and justice bundle](https://itch.io/b/520/bundle-for-racial-justice-and-equality)  that ended up making 8 million in sales. 
-
 The historic [itch.io bundle for racial justice and equality](https://itch.io/b/520/bundle-for-racial-justice-and-equality) has just recently ended, generating over 8 million dollars in sales with all proceeds donated to the [NAACP Legal Defense and Educational Fund](https://www.naacpldf.org/) and [Community Bail Fund](https://secure.actblue.com/donate/bail_funds_george_floyd).
   
 Included in that bundle was a download for [PICO-8](https://www.lexaloffle.com/pico-8.php) which I've been spending a lot of my time with recently, and I want others to get involved too.
