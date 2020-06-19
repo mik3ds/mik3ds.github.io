@@ -24,13 +24,13 @@ Included in that bundle was a download for [PICO-8](https://www.lexaloffle.com/p
 It takes three functions for a PICO-8 game to launch and run.
 Here they are:
 
-*function _init()
+*function _init()<br>
 end*
 
-*function _update()
+*function _update()<br>
 end*
 
-*function _draw()
+*function _draw()<br>
 end*
 
 ![PICO-8 Game Loop](https://raw.githubusercontent.com/mik3ds/mik3ds.github.io/master/images/pico1.png)
@@ -65,9 +65,9 @@ For the init function, we can ignore the updating aspect and focus on what is ne
 
 Here’s the code:
 
-*function _init()
-	xpos = 64
-	ypos = 64
+*function _init()<br>
+	xpos = 64<br>
+	ypos = 64<br>
 end*
 
 ![Setting X and Y Coordinates](https://raw.githubusercontent.com/mik3ds/mik3ds.github.io/master/images/pico2.png)
@@ -80,9 +80,9 @@ The radius and colour will stay constant so we can set these manually in draw(),
 
 Here’s the draw function:
 
-*function _draw()
-	cls()
-	circfill(xpos, ypos, 10, 8)
+*function _draw()<br>
+	cls()<br>
+	circfill(xpos, ypos, 10, 8)<br>
 end*
 
 cls() clears the screen, and circfill() draws in the circle at the X and Y coordinates, with a radius of 10 and using colour 8.
@@ -95,32 +95,32 @@ The red ball should be appearing, but we haven’t set any controls yet.
 
 Let’s take a look at the update function:
 
-*function _update()
-	if (btn(0) and xpos > 0) xpos -= 1
-	if (btn(1) and xpos < 127) xpos += 1
-	if (btn(2) and ypos > 0) ypos -= 1
-	if (btn(3) and ypos < 127) ypos += 1
+*function _update()<br>
+	if (btn(0) and xpos > 0) xpos -= 1<br>
+	if (btn(1) and xpos < 127) xpos += 1<br>
+	if (btn(2) and ypos > 0) ypos -= 1<br>
+	if (btn(3) and ypos < 127) ypos += 1<br>
 end*
 
 if (btn(0)) returns true if button 0 is held down on that frame. Each line of our update function checks a different movement key to see if it is held down and updates our circles X and Y position accordingly, moving one pixel per frame. We also limit the possible X and Y coordinates to the values of 0 and 128, which is the PICO-8’s screen size in pixels.
 
 Here it is all together:
 
-*function _init()
-	xpos = 64
-	ypos = 64
+*function _init()<br>
+	xpos = 64<br>
+	ypos = 64<br>
 end*
 
-*function _update()
-	if (btn(0) and xpos > 0) xpos -= 1
-	if (btn(1) and xpos < 127) xpos += 1
-	if (btn(2) and ypos > 0) ypos -= 1
-	if (btn(3) and ypos < 127) ypos += 1
+*function _update()<br>
+	if (btn(0) and xpos > 0) xpos -= 1<br>
+	if (btn(1) and xpos < 127) xpos += 1<br>
+	if (btn(2) and ypos > 0) ypos -= 1<br>
+	if (btn(3) and ypos < 127) ypos += 1<br>
 end*
 
-*function _draw()
-	cls()
-	circfill(xpos, ypos, 10, 8)
+*function _draw()<br>
+	cls()<br>
+	circfill(xpos, ypos, 10, 8)<br>
 end*
 
 ![Completed Example Code](https://raw.githubusercontent.com/mik3ds/mik3ds.github.io/master/images/pico4.png)
@@ -134,7 +134,7 @@ From here it’s pretty simple to keep adding to. If you want some ideas to go f
 - Make the circle able to shoot around the screen
 - Replace the circle and background with a sprite and map
 
-Thanks for following along, if you've read this far I love you and I hope everything goes well with your game dev projects! Follow me on twitter, add me on linkedin if thats your thing and take a look at a few more examples of what PICO-8 can do here:
+Thanks for following along, if you've read this far I love you and I hope everything goes well with your game dev projects! Follow me on [Twitter](https://twitter.com/mikecdev1), add me on [LinkedIn](https://www.linkedin.com/in/michael-clark-12258b173/) if that's your thing, and take a look at a few more examples of what PICO-8 can do here:
 
 [https://www.lexaloffle.com/bbs/?tid=31411](https://www.lexaloffle.com/bbs/?tid=31411)
 ![PICO-8 Doom 3D Clone Test](https://raw.githubusercontent.com/mik3ds/mik3ds.github.io/master/images/picoex1.png)
