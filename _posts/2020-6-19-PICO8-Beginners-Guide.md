@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up a Personal Media Server in the Cloud
+title: Super Simple PICO-8 Beginners Guide
 ---
 
 Now is a great time to get started with PICO-8 through the (now ended) [historic itch.io racial equality and justice bundle](https://itch.io/b/520/bundle-for-racial-justice-and-equality)  that ended up making 8 million in sales. 
