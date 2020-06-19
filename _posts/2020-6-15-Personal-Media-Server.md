@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting up a Personal Media Server in the Cloud
+tags: plex sonarr jackett rclone jekyll blog github-page
 ---
 
 One of my friends had recently told me they'd been watching movies on a [Plex](https://www.plex.tv/) server sitting in a friend’s apartment in Sydney. I’ve always liked the idea of running my own media server but I’ve steered clear in the past because of the noise and electricity use. Having an old laptop whirring away in the corner of my lounge room does not sound appealing to me.
