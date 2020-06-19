@@ -24,7 +24,7 @@ Included in that bundle was a download for [PICO-8](https://www.lexaloffle.com/p
 It takes three functions for a PICO-8 game to launch and run.
 Here they are:
 
-*function _init()<br>
+*function _init()  
 end*
 
 *function _update()<br>
