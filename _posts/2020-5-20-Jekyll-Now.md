@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adding a Blog to your Github Pages site using Jekyll Now
+tags: jekyll blog github-page
 ---
 
 Recently I’ve been thinking about improving my personal website, [mikeclark.xyz](mikeclark.xyz.). The site is very simple; it uses Bootstrap 4, is hosted on Github Pages, and it only lists my main technical skills.
