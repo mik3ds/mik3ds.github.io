@@ -3,6 +3,7 @@ layout: post
 title: Hardware and Software: July 2020
 tags: desk setup hardware software
 ---
+
 # Hardware and Software: July 2020
 At the beginning of the Covid-19 period I knew that I’d be spending a lot more time indoors than usual, so I spent some time trying to create my dream setup. I’m pretty happy with it all at the moment, here’s what it looks like: 
 
