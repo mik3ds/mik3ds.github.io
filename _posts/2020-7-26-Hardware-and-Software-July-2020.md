@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hardware and Software: July 2020
+title: Hardware and Software - July 2020
 tags: desk setup hardware software
 ---
 
