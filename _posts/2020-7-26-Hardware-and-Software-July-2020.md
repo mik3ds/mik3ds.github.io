@@ -33,7 +33,7 @@ I use the Logitech Anywhere 2S at my workplace, and the Anywhere 2S doesn’t ha
 My first MIDI keyboard. Still learning Pro Tools. And will probably be in the learning stage for a while. I don’t mind, it’s a calming activity for me, similar to gardening. 
 
 #### Kindle Wifi 6”
-Just got this recently and I’m reading [10% Happier by Dan Harris](https://www.amazon.com.au/10-Happier-Self-Help-Actually-Works/dp/0062265431). Also reading Dune and Norwegian Wood but much more slowly (been going a while).  This is my third Kindle model, I’ve picked up a case for it this time. I definitely read a lot more with a Kindle than without one.
+Just got this recently and I’m reading [Meditation for Fidgety Skeptics by Dan Harris](https://www.amazon.com.au/Meditation-Fidgety-Skeptics-Happier-How/dp/0399588949). Also reading Dune and Norwegian Wood but much more slowly (been going a while).  This is my third Kindle model, I’ve picked up a case for it this time. I definitely read a lot more with a Kindle than without one.
 
 ### Software
 
